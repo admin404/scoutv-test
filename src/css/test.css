@@ -1,0 +1,14 @@
+*{
+  background-color: #000000;
+}
+.container{
+  color: #ffffff;
+}
+.clickme-btn{
+  color:#00ff00;
+  width: 1000;
+  height: 40;
+}
+.clickme-btn:hover{
+  background-color: rgba(100,100,100,1);
+}

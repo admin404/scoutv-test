@@ -1,0 +1,21 @@
+.container{
+	width: 40%;
+	margin:0 auto;
+}
+#form{
+	border: 1px solid gray;
+    border-radius: 3px;
+    width: 160px;
+    height: 185px;
+    box-shadow: 0px 2px 2px 0px  gray;
+    margin: 0 auto;
+    background-color: cornflowerblue;
+}
+#form div{
+    clear: both;
+    margin-top: 10px;
+    padding: 5px;
+}
+#form h1{
+	color: white;
+}
