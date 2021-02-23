@@ -12,7 +12,7 @@
 	<div class="container">
 	    <form method="post" action="">
 	        <div id="div_login">
-	            <h1 onClick="window.location.href='./';">Login</h1>
+	            <h1 onClick="window.location.href='./';">Login</h1> <h1>back</h1>
 	            <div>
 	                <input type="text" class="textbox" id="txt_uname" name="txt_uname" placeholder="Username" />
 	            </div>
